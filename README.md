@@ -130,7 +130,7 @@ https://api.telegram.org/bot<your-bot-token>/sendMessage?chat_id=<your-chat-id>&
 ## Contributors
 
 - **Hackfut** (Lead Author)  
-  Contact me via [Telegram](https://t.me/H4ckfutSec) or on [GitHub](https://github.com/HackfutSec).
+  Contact me via [Telegram](https://t.me/HackfutS3c) or on [GitHub](https://github.com/HackfutSec).
 
 ---
 
