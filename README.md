@@ -143,7 +143,7 @@ You can use, modify, and distribute this software under the terms of the MIT lic
 
 ## Support
 
-If you encounter any issues with the tool, you can open an **issue** on the GitHub repository or contact me directly via [Telegram](https://t.me/H4ckfutSec).
+If you encounter any issues with the tool, you can open an **issue** on the GitHub repository or contact me directly via [Telegram](https://t.me/HackfutS3c).
 
 ---
 
